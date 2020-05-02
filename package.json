@@ -1,0 +1,10 @@
+{
+  "name": "[teru:name]",
+  "version": "0.0.0",
+  "main": "src/index.js",
+  "author": "[teru:author] <[teru:email]>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
