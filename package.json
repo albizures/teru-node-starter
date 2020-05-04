@@ -1,8 +1,8 @@
 {
-	"name": "<%= name %>",
+	"name": "<%= tokens.name %>",
 	"version": "0.0.0",
 	"main": "src/index.js",
-	"author": "<%= author %> <<%= email %>>",
+	"author": "<%= tokens.author %> <<%= tokens.email %>>",
 	"license": "MIT",
 	"scripts": {
 		"start": "node src/index.js"
