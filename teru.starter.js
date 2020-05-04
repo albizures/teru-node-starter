@@ -5,7 +5,7 @@ module.exports = {
 			defaultValue: 2020,
 		},
 		prettier: {
-			type: 'boolean',
+			message: 'do you want to use Prettier?',
 			defaultValue: false,
 		},
 		author: {},
